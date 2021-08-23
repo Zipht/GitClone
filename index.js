@@ -1,7 +1,7 @@
 const triplo = function (n = 5){
   return n * 3
 }
-console.log (triplo(8))
+console.log (triplo(9))
 console.log(triplo())
 
 // function eAgora(f1, f2) {
